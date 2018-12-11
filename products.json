@@ -1,0 +1,402 @@
+[
+    {
+        "productId": 1001,
+        "productCategory": "Category 3",
+        "productName": "Product 1",
+        "productImage": "https://picsum.photos/200?image=1",
+        "productStock": false,
+        "productPrice": "41608.465"
+    },
+    {
+        "productId": 1002,
+        "productCategory": "Category 3",
+        "productName": "Product 2",
+        "productImage": "https://picsum.photos/200?image=2",
+        "productStock": false,
+        "productPrice": "36554.298"
+    },
+    {
+        "productId": 1003,
+        "productCategory": "Category 1",
+        "productName": "Product 3",
+        "productImage": "https://picsum.photos/200?image=3",
+        "productStock": true,
+        "productPrice": "14570.073"
+    },
+    {
+        "productId": 1004,
+        "productCategory": "Category 3",
+        "productName": "Product 4",
+        "productImage": "https://picsum.photos/200?image=4",
+        "productStock": true,
+        "productPrice": "49021.018"
+    },
+    {
+        "productId": 1005,
+        "productCategory": "Category 3",
+        "productName": "Product 5",
+        "productImage": "https://picsum.photos/200?image=5",
+        "productStock": false,
+        "productPrice": "32906.022"
+    },
+    {
+        "productId": 1006,
+        "productCategory": "Category 4",
+        "productName": "Product 6",
+        "productImage": "https://picsum.photos/200?image=6",
+        "productStock": false,
+        "productPrice": "28577.907"
+    },
+    {
+        "productId": 1007,
+        "productCategory": "Category 2",
+        "productName": "Product 7",
+        "productImage": "https://picsum.photos/200?image=7",
+        "productStock": true,
+        "productPrice": "33998.745"
+    },
+    {
+        "productId": 1008,
+        "productCategory": "Category 1",
+        "productName": "Product 8",
+        "productImage": "https://picsum.photos/200?image=8",
+        "productStock": true,
+        "productPrice": "32680.420"
+    },
+    {
+        "productId": 1009,
+        "productCategory": "Category 4",
+        "productName": "Product 9",
+        "productImage": "https://picsum.photos/200?image=9",
+        "productStock": false,
+        "productPrice": "22997.723"
+    },
+    {
+        "productId": 1010,
+        "productCategory": "Category 4",
+        "productName": "Product 10",
+        "productImage": "https://picsum.photos/200?image=10",
+        "productStock": true,
+        "productPrice": "11576.742"
+    },
+    {
+        "productId": 1011,
+        "productCategory": "Category 3",
+        "productName": "Product 11",
+        "productImage": "https://picsum.photos/200?image=11",
+        "productStock": false,
+        "productPrice": "48083.289"
+    },
+    {
+        "productId": 1012,
+        "productCategory": "Category 3",
+        "productName": "Product 12",
+        "productImage": "https://picsum.photos/200?image=12",
+        "productStock": true,
+        "productPrice": "39913.336"
+    },
+    {
+        "productId": 1013,
+        "productCategory": "Category 3",
+        "productName": "Product 13",
+        "productImage": "https://picsum.photos/200?image=13",
+        "productStock": true,
+        "productPrice": "37680.186"
+    },
+    {
+        "productId": 1014,
+        "productCategory": "Category 2",
+        "productName": "Product 14",
+        "productImage": "https://picsum.photos/200?image=14",
+        "productStock": true,
+        "productPrice": "10284.729"
+    },
+    {
+        "productId": 1015,
+        "productCategory": "Category 4",
+        "productName": "Product 15",
+        "productImage": "https://picsum.photos/200?image=15",
+        "productStock": false,
+        "productPrice": "10324.340"
+    },
+    {
+        "productId": 1016,
+        "productCategory": "Category 3",
+        "productName": "Product 16",
+        "productImage": "https://picsum.photos/200?image=16",
+        "productStock": false,
+        "productPrice": "14270.031"
+    },
+    {
+        "productId": 1017,
+        "productCategory": "Category 1",
+        "productName": "Product 17",
+        "productImage": "https://picsum.photos/200?image=17",
+        "productStock": false,
+        "productPrice": "21118.483"
+    },
+    {
+        "productId": 1018,
+        "productCategory": "Category 3",
+        "productName": "Product 18",
+        "productImage": "https://picsum.photos/200?image=18",
+        "productStock": false,
+        "productPrice": "40861.876"
+    },
+    {
+        "productId": 1019,
+        "productCategory": "Category 2",
+        "productName": "Product 19",
+        "productImage": "https://picsum.photos/200?image=19",
+        "productStock": false,
+        "productPrice": "15973.033"
+    },
+    {
+        "productId": 1020,
+        "productCategory": "Category 1",
+        "productName": "Product 20",
+        "productImage": "https://picsum.photos/200?image=20",
+        "productStock": false,
+        "productPrice": "26954.570"
+    },
+    {
+        "productId": 1021,
+        "productCategory": "Category 3",
+        "productName": "Product 21",
+        "productImage": "https://picsum.photos/200?image=21",
+        "productStock": true,
+        "productPrice": "28986.446"
+    },
+    {
+        "productId": 1022,
+        "productCategory": "Category 2",
+        "productName": "Product 22",
+        "productImage": "https://picsum.photos/200?image=22",
+        "productStock": false,
+        "productPrice": "47000.644"
+    },
+    {
+        "productId": 1023,
+        "productCategory": "Category 4",
+        "productName": "Product 23",
+        "productImage": "https://picsum.photos/200?image=23",
+        "productStock": false,
+        "productPrice": "16173.040"
+    },
+    {
+        "productId": 1024,
+        "productCategory": "Category 2",
+        "productName": "Product 24",
+        "productImage": "https://picsum.photos/200?image=24",
+        "productStock": true,
+        "productPrice": "34747.471"
+    },
+    {
+        "productId": 1025,
+        "productCategory": "Category 1",
+        "productName": "Product 25",
+        "productImage": "https://picsum.photos/200?image=25",
+        "productStock": false,
+        "productPrice": "34630.991"
+    },
+    {
+        "productId": 1026,
+        "productCategory": "Category 3",
+        "productName": "Product 26",
+        "productImage": "https://picsum.photos/200?image=26",
+        "productStock": false,
+        "productPrice": "30691.369"
+    },
+    {
+        "productId": 1027,
+        "productCategory": "Category 4",
+        "productName": "Product 27",
+        "productImage": "https://picsum.photos/200?image=27",
+        "productStock": false,
+        "productPrice": "25763.045"
+    },
+    {
+        "productId": 1028,
+        "productCategory": "Category 3",
+        "productName": "Product 28",
+        "productImage": "https://picsum.photos/200?image=28",
+        "productStock": false,
+        "productPrice": "43238.163"
+    },
+    {
+        "productId": 1029,
+        "productCategory": "Category 1",
+        "productName": "Product 29",
+        "productImage": "https://picsum.photos/200?image=29",
+        "productStock": true,
+        "productPrice": "22043.865"
+    },
+    {
+        "productId": 1030,
+        "productCategory": "Category 3",
+        "productName": "Product 30",
+        "productImage": "https://picsum.photos/200?image=30",
+        "productStock": true,
+        "productPrice": "12590.281"
+    },
+    {
+        "productId": 1031,
+        "productCategory": "Category 2",
+        "productName": "Product 31",
+        "productImage": "https://picsum.photos/200?image=31",
+        "productStock": false,
+        "productPrice": "21214.686"
+    },
+    {
+        "productId": 1032,
+        "productCategory": "Category 3",
+        "productName": "Product 32",
+        "productImage": "https://picsum.photos/200?image=32",
+        "productStock": true,
+        "productPrice": "13940.272"
+    },
+    {
+        "productId": 1033,
+        "productCategory": "Category 3",
+        "productName": "Product 33",
+        "productImage": "https://picsum.photos/200?image=33",
+        "productStock": true,
+        "productPrice": "20174.762"
+    },
+    {
+        "productId": 1034,
+        "productCategory": "Category 1",
+        "productName": "Product 34",
+        "productImage": "https://picsum.photos/200?image=34",
+        "productStock": true,
+        "productPrice": "12445.970"
+    },
+    {
+        "productId": 1035,
+        "productCategory": "Category 2",
+        "productName": "Product 35",
+        "productImage": "https://picsum.photos/200?image=35",
+        "productStock": true,
+        "productPrice": "13007.161"
+    },
+    {
+        "productId": 1036,
+        "productCategory": "Category 1",
+        "productName": "Product 36",
+        "productImage": "https://picsum.photos/200?image=36",
+        "productStock": true,
+        "productPrice": "34906.572"
+    },
+    {
+        "productId": 1037,
+        "productCategory": "Category 4",
+        "productName": "Product 37",
+        "productImage": "https://picsum.photos/200?image=37",
+        "productStock": true,
+        "productPrice": "11359.424"
+    },
+    {
+        "productId": 1038,
+        "productCategory": "Category 4",
+        "productName": "Product 38",
+        "productImage": "https://picsum.photos/200?image=38",
+        "productStock": false,
+        "productPrice": "33117.556"
+    },
+    {
+        "productId": 1039,
+        "productCategory": "Category 4",
+        "productName": "Product 39",
+        "productImage": "https://picsum.photos/200?image=39",
+        "productStock": false,
+        "productPrice": "34721.721"
+    },
+    {
+        "productId": 1040,
+        "productCategory": "Category 4",
+        "productName": "Product 40",
+        "productImage": "https://picsum.photos/200?image=40",
+        "productStock": true,
+        "productPrice": "29689.319"
+    },
+    {
+        "productId": 1041,
+        "productCategory": "Category 4",
+        "productName": "Product 41",
+        "productImage": "https://picsum.photos/200?image=41",
+        "productStock": true,
+        "productPrice": "39403.961"
+    },
+    {
+        "productId": 1042,
+        "productCategory": "Category 1",
+        "productName": "Product 42",
+        "productImage": "https://picsum.photos/200?image=42",
+        "productStock": true,
+        "productPrice": "34230.702"
+    },
+    {
+        "productId": 1043,
+        "productCategory": "Category 4",
+        "productName": "Product 43",
+        "productImage": "https://picsum.photos/200?image=43",
+        "productStock": false,
+        "productPrice": "15034.854"
+    },
+    {
+        "productId": 1044,
+        "productCategory": "Category 2",
+        "productName": "Product 44",
+        "productImage": "https://picsum.photos/200?image=44",
+        "productStock": true,
+        "productPrice": "49166.594"
+    },
+    {
+        "productId": 1045,
+        "productCategory": "Category 4",
+        "productName": "Product 45",
+        "productImage": "https://picsum.photos/200?image=45",
+        "productStock": false,
+        "productPrice": "45841.696"
+    },
+    {
+        "productId": 1046,
+        "productCategory": "Category 2",
+        "productName": "Product 46",
+        "productImage": "https://picsum.photos/200?image=46",
+        "productStock": false,
+        "productPrice": "41272.892"
+    },
+    {
+        "productId": 1047,
+        "productCategory": "Category 1",
+        "productName": "Product 47",
+        "productImage": "https://picsum.photos/200?image=47",
+        "productStock": true,
+        "productPrice": "30411.029"
+    },
+    {
+        "productId": 1048,
+        "productCategory": "Category 3",
+        "productName": "Product 48",
+        "productImage": "https://picsum.photos/200?image=48",
+        "productStock": true,
+        "productPrice": "36631.732"
+    },
+    {
+        "productId": 1049,
+        "productCategory": "Category 2",
+        "productName": "Product 49",
+        "productImage": "https://picsum.photos/200?image=49",
+        "productStock": false,
+        "productPrice": "30175.119"
+    },
+    {
+        "productId": 1050,
+        "productCategory": "Category 2",
+        "productName": "Product 50",
+        "productImage": "https://picsum.photos/200?image=50",
+        "productStock": false,
+        "productPrice": "43421.170"
+    }
+]
