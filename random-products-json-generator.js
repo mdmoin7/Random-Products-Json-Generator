@@ -16,11 +16,12 @@ const generateProducts = (arrayLength) => (minCategory, maxCategory) => (minCost
             "productName": `Product ${i + 1}`,
             "productImage": `https://picsum.photos/400?image=${Math.floor(Math.random() * 1000)}`,
             "productStock": !!randomStock,
-            "productPrice": randomPrice.toFixed(3)
+            "productPrice": randomPrice,
+            "salePrice":!!Math.floor((Math.random() * 1000) % 2)?randomPrice*((Math.floor(Math.random() * (50 - 10) + 10))/100):randomPrice
         }
     }
     console.log('Below is your products json array');
     console.log(JSON.stringify(a));
 }
 // sample execution
-generateProducts(20)(1, 5)(1000, 4000);
+generateProducts(100)(1, 5)(10000, 100000);
