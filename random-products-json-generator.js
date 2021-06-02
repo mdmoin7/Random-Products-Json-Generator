@@ -4,9 +4,6 @@ import {
   colors,
   names
 } from 'unique-names-generator';
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 const createDump = (arrayLength = 100) => {
   let a = new Array(arrayLength);
