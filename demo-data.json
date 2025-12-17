@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "generatedAt": "2025-12-17T09:30:00Z",
+    "currency": "INR",
+    "dateRange": "MTD",
+    "userRole": "sales"
+  },
+  "kpis": {
+    "totalLeads": {
+      "value": 1284,
+      "delta": 6.4,
+      "trend": "up"
+    },
+    "openOpportunities": {
+      "value": 312,
+      "delta": -2.1,
+      "trend": "down"
+    },
+    "pipelineValue": {
+      "value": 46000000,
+      "formatted": "₹4.6 Cr",
+      "delta": 8.9,
+      "trend": "up"
+    },
+    "conversionRate": {
+      "value": 18.4,
+      "unit": "%",
+      "delta": 1.2,
+      "trend": "up"
+    }
+  },
+  "pipeline": {
+    "stages": [
+      { "stage": "Qualification", "count": 420, "value": 6200000 },
+      { "stage": "Proposal", "count": 310, "value": 9800000 },
+      { "stage": "Negotiation", "count": 180, "value": 14100000 },
+      { "stage": "Commit", "count": 92, "value": 15700000 }
+    ]
+  },
+  "revenueTrend": {
+    "period": "monthly",
+    "data": [
+      { "month": "Aug", "revenue": 8200000 },
+      { "month": "Sep", "revenue": 9100000 },
+      { "month": "Oct", "revenue": 10500000 },
+      { "month": "Nov", "revenue": 11800000 },
+      { "month": "Dec", "revenue": 13400000 }
+    ]
+  },
+  "leadSources": [
+    { "source": "Website", "count": 420 },
+    { "source": "Referral", "count": 310 },
+    { "source": "Paid Ads", "count": 280 },
+    { "source": "Events", "count": 190 },
+    { "source": "Partners", "count": 84 }
+  ],
+  "recentLeads": [
+    {
+      "id": "LD-10091",
+      "name": "Aarav Mehta",
+      "company": "Mehta Logistics",
+      "source": "Website",
+      "owner": "Rohit Sharma",
+      "status": "New",
+      "createdOn": "2025-12-16T11:10:00Z"
+    },
+    {
+      "id": "LD-10092",
+      "name": "Sneha Iyer",
+      "company": "Iyer Retail",
+      "source": "Referral",
+      "owner": "Ananya Rao",
+      "status": "Contacted",
+      "createdOn": "2025-12-16T10:42:00Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "TSK-771",
+      "title": "Follow up with Mehta Logistics",
+      "dueDate": "2025-12-18",
+      "priority": "High",
+      "status": "Open"
+    },
+    {
+      "id": "TSK-772",
+      "title": "Prepare proposal for Iyer Retail",
+      "dueDate": "2025-12-19",
+      "priority": "Medium",
+      "status": "Open"
+    }
+  ]
+}
